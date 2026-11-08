@@ -1,0 +1,97 @@
+import type { Chapter } from '../types'
+
+export const VOL1: Chapter[] = [
+  {
+    id: 'how-to-dress', volume: 1, title: 'How to Read This Handbook', minutes: 4,
+    dek: 'Clothes are a language. This book teaches its grammar, so you can speak it fluently — and choose when to bend it.',
+    blocks: [
+      { t: 'p', text: 'Menswear looks like a set of rules, but most of those rules are simply **conventions**: habits that formed because they solved a problem, flattered a body, or signalled something to other people. Learn why a convention exists and you can follow it with confidence, adapt it, or deliberately break it.' },
+      { t: 'p', text: 'This handbook moves in four volumes. *Foundations* covers fit, colour, pattern, formality and proportion. *Building a Wardrobe* goes garment by garment. *Dressing with Intention* applies the principles to real occasions and traditions. *Beyond the Basics* is about taste, quality and personal style.' },
+      { t: 'h', text: 'Three ideas that run through everything' },
+      { t: 'list', items: ['**Fit before everything.** An inexpensive garment that fits beats an expensive one that does not.', '**Coherence.** An outfit works when its pieces agree — in formality, in season, in mood.', '**Intention.** Breaking a convention on purpose reads as style; breaking it by accident reads as a mistake.'] },
+      { t: 'note', text: 'Throughout the book, advice is marked as either **convention** — widely shared expectations — or **interpretation** — taste, where reasonable people differ.' },
+      { t: 'demo', kind: 'preset', preset: 'navy-blazer', caption: 'Every illustration in this book is live. Open it in the Studio to change any layer.' },
+      { t: 'deeper', title: 'Where do menswear conventions come from?', body: ['Most come from three sources: the court and the military (hierarchy and uniform), sport and the countryside (practical clothes that drifted into town), and work (durable garments later adopted as leisurewear).', 'That is why a blazer has metal buttons, why brogues have holes, and why jeans have rivets. Knowing the origin explains the formality: town is more formal than country, dark is more formal than light, smooth more formal than textured.'] },
+    ],
+  },
+  {
+    id: 'fit-first', volume: 1, title: 'Fit Is the Foundation', minutes: 7,
+    dek: 'The most important quality of any garment is how it sits on your body. Here is how to judge it.',
+    blocks: [
+      { t: 'p', text: 'Fit is not about tightness. A well-fitted garment follows your shape without pulling, sagging or bunching, and lets you move. Fashion changes how close or loose clothes are cut — but the checkpoints below stay the same.' },
+      { t: 'h', text: 'The checkpoints' },
+      { t: 'list', items: ['**Shoulders** — the seam should end where your shoulder ends. This is the hardest thing to alter, so judge it first.', '**Chest** — no X-shaped creases radiating from a fastened button.', '**Sleeves** — a shirt cuff ends at the wrist bone; a jacket sleeve shows about a centimetre of shirt cuff.', '**Length** — a jacket covers your seat; an untucked shirt ends mid-fly or a little lower.', '**Trousers** — sit where they are designed to sit, with no pulling across the seat and a clean line from hip to hem.'] },
+      { t: 'demo', kind: 'anatomy', anatomy: 'jacket', caption: 'Explore the parts of a tailored jacket. Select any marker to learn what it does.' },
+      { t: 'compare', a: { title: 'Fits', points: ['Shoulder seam at the shoulder bone', 'Collar hugs the shirt collar', 'Sleeve shows a little cuff'] }, b: { title: 'Does not fit', points: ['Divots below the shoulder pad', 'Gap between jacket and shirt collar', 'Sleeve swallowing the hand'] } },
+      { t: 'note', text: '**Convention:** buy for the shoulders and have the rest altered. A tailor can shorten sleeves, take in a waist and hem trousers cheaply. See [Working with a Tailor](c:tailor).' },
+      { t: 'deeper', title: 'Why "slim" is not the same as "fitted"', body: ['In the 2000s and 2010s many brands confused fit with tightness. A garment can be roomy and still fit — the shoulder and length are right, the drape is deliberate. Relaxed and wide silhouettes are back in fashion, but they still need the same checkpoints.'] },
+    ],
+  },
+  {
+    id: 'tailoring-fit', volume: 1, title: 'Reading a Jacket', minutes: 8,
+    dek: 'Lapels, gorge, button stance, vents and canvas — the anatomy that separates a good jacket from a passable one.',
+    garments: ['suit-jacket', 'blazer', 'sport-coat', 'double-breasted-jacket'],
+    blocks: [
+      { t: 'p', text: 'A tailored jacket is an architecture of small decisions. Each detail began as a practical feature and now signals formality or tradition.' },
+      { t: 'demo', kind: 'anatomy', anatomy: 'jacket' },
+      { t: 'h', text: 'Lapels' },
+      { t: 'list', items: ['**Notch** — a V-shaped step where collar meets lapel. The everyday default for single-breasted jackets.', '**Peak** — points upward toward the shoulder. Traditional on double-breasted jackets and more formal.', '**Shawl** — a continuous curve. Reserved mainly for the [dinner jacket](g:dinner-jacket).'] },
+      { t: 'h', text: 'Buttons and vents' },
+      { t: 'p', text: 'On a two-button jacket fasten the top button only; on a three-button, the middle (and sometimes the top). The bottom button stays open — a convention dating from the early twentieth century that the cut now assumes. Vents allow movement: double vents are traditionally British, a single vent American, and no vents the sleekest and most formal.' },
+      { t: 'deeper', title: 'Canvas, fused and unstructured', body: ['A **canvassed** jacket has a layer of horsehair or wool canvas stitched between cloth and lining that shapes to your chest over time. A **fused** jacket glues interfacing in place — cheaper and stiffer, and liable to bubble. **Unstructured** jackets drop most of the interior for a soft, shirt-like feel.', 'Pinch the cloth just below the top button: if you can feel a separate, floating layer, the jacket is canvassed.'] },
+      { t: 'note', text: '**Interpretation:** lapel width should roughly match your build — and your tie should roughly match the lapel. Narrow lapels feel 1960s; wider ones feel 1940s or 1970s.' },
+    ],
+  },
+  {
+    id: 'colour-basics', volume: 1, title: 'Colour: The Basics', minutes: 9,
+    dek: 'Neutrals do the work, accents provide the interest, and contrast controls the mood.',
+    blocks: [
+      { t: 'p', text: 'Most menswear sits on a base of **neutrals**: navy, grey, brown, khaki, olive, white and black. They combine easily because they are low in saturation. Colour enters as **accents** — a burgundy tie, a forest-green sweater, a rust beanie.' },
+      { t: 'h', text: 'Three ways to combine colour' },
+      { t: 'list', items: ['**Neutral base plus one accent** — the most reliable recipe.', '**Tonal** — several shades of one colour family, varied by lightness and texture. See [Tonal & Contrast](c:tonal-dressing).', '**Analogous** — neighbours on the colour wheel, like olive, mustard and brown. Harmonious and autumnal.'] },
+      { t: 'demo', kind: 'colour-workshop', caption: 'Try combinations. The workshop explains what each pairing does rather than scoring it.' },
+      { t: 'h', text: 'Contrast' },
+      { t: 'p', text: 'Contrast is the difference in lightness between neighbouring garments. High contrast — a white shirt under a navy suit — reads crisp and formal. Low contrast — an oatmeal sweater with stone trousers — reads soft and relaxed. Many people find that matching outfit contrast to the contrast between their hair and skin is flattering; treat this as **interpretation**, not law.' },
+      { t: 'note', text: '**Convention:** darker colours are more formal than lighter ones. Daytime formality allows lighter greys; evening wear tends toward black and midnight navy.' },
+      { t: 'deeper', title: 'Why navy and grey work with almost everything', body: ['Navy is a very dark, desaturated blue: it has enough colour to feel warm next to brown and enough darkness to anchor lighter garments. Mid-grey is almost perfectly neutral, so it neither competes with nor fights any accent. That is why the [navy blazer](g:blazer) and grey trousers became the century\'s most dependable combination.'] },
+    ],
+  },
+  {
+    id: 'pattern-and-texture', volume: 1, title: 'Pattern & Texture', minutes: 8,
+    dek: 'Stripes, checks and cloth texture add interest. The secret to combining them is scale.',
+    blocks: [
+      { t: 'p', text: 'Pattern adds energy. The traditional advice is to vary the **scale** of patterns you wear together: a broad chalkstripe suit, a fine striped shirt, and a small-figured tie can coexist because each sits at a different size.' },
+      { t: 'list', items: ['**One pattern** — always safe.', '**Two patterns** — make them clearly different in scale, or one a texture rather than a print.', '**Three patterns** — possible, but keep colours restrained and scales distinct.'] },
+      { t: 'demo', kind: 'pattern-match', caption: 'Pair patterns and read why each combination does or does not settle.' },
+      { t: 'h', text: 'Texture as quiet pattern' },
+      { t: 'p', text: 'Herringbone, oxford cloth, corduroy and cable knit add visual interest at close range while reading as solid from afar. Mixing textures — tweed with flannel, suede with corduroy — is how country clothes stay interesting without a single printed pattern.' },
+      { t: 'note', text: '**Convention:** smooth, fine cloths read as town and formal; textured, rough cloths read as country and casual.' },
+      { t: 'deeper', title: 'A glossary of classic patterns', body: ['**Pinstripe** — fine, closely spaced lines. **Chalkstripe** — softer, wider lines, as if drawn in tailor\'s chalk. **Gingham** — even checks of one colour and white. **Windowpane** — thin lines forming large squares. **Houndstooth** — a broken check of jagged shapes. **Herringbone** — a broken twill that zigzags. **Tartan** — multi-coloured overlapping bands, Scottish in origin.'] },
+    ],
+  },
+  {
+    id: 'formality', volume: 1, title: 'The Formality Ladder', minutes: 7,
+    dek: 'Every garment carries a level of formality. Outfits work best when their pieces stand on neighbouring rungs.',
+    blocks: [
+      { t: 'p', text: 'This handbook uses five rungs: **Off-duty**, **Casual**, **Smart casual**, **Tailored** and **Formal**. A tee and jeans sit at the bottom; black tie at the top. Most outfits combine pieces from one or two adjacent rungs.' },
+      { t: 'demo', kind: 'formality-ladder', caption: 'Arrange garments from least to most formal, then check your order.' },
+      { t: 'h', text: 'What moves something up the ladder' },
+      { t: 'list', items: ['Darker colour', 'Smoother cloth', 'Less visible stitching and fewer pockets', 'Leather soles and closed lacing', 'Matched cloth (a suit) instead of separates'] },
+      { t: 'note', text: '**Interpretation:** a deliberate mix of rungs — a tee under a suit, sneakers with tailoring — is a modern signature. It works best when everything else is precise, and when the gap is one or two rungs, not four.' },
+      { t: 'deeper', title: 'The "one step" rule', body: ['When in doubt, dress one step above what you expect others to wear. It is easy to remove a tie or a jacket; it is harder to dress up an outfit that is too casual.'] },
+    ],
+  },
+  {
+    id: 'silhouette-and-proportion', volume: 1, title: 'Silhouette & Proportion', minutes: 8,
+    dek: 'The overall shape of an outfit — where it is full, where it is close, where it breaks.',
+    blocks: [
+      { t: 'p', text: 'Silhouette is the outline of an outfit seen from a distance. Proportion is how its parts divide your height: where the jacket ends, where the trousers begin, how much volume sits above and below.' },
+      { t: 'demo', kind: 'silhouette-lab', caption: 'Change the trouser leg and the top layer to see how proportion shifts.' },
+      { t: 'h', text: 'Principles that hold across fashions' },
+      { t: 'list', items: ['**Balance volume.** A full trouser usually wants a shorter or closer top, and vice versa.', '**Waist height matters.** A higher rise lengthens the legs; a low rise lengthens the torso.', '**Footwear anchors.** Wide trousers need substantial shoes; slim trousers suit sleeker ones.'] },
+      { t: 'compare', a: { title: 'Relaxed line', points: ['Wide, pleated trouser', 'Short top layer', 'Substantial shoe'] }, b: { title: 'Tailored line', points: ['Slim, pressed trouser', 'Hip-length layer', 'Sleek shoe'] } },
+      { t: 'demo', kind: 'preset', preset: 'relaxed-trousers', caption: 'A relaxed line — open in the Studio and switch the trousers to slim to compare.' },
+      { t: 'note', text: '**Interpretation:** there is no single correct silhouette. The 1930s drape, the 1960s slim cut and today\'s relaxed fit are all coherent — as long as the proportions agree with each other.' },
+    ],
+  },
+]

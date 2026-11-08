@@ -1,0 +1,96 @@
+import type { Chapter } from '../types'
+
+export const VOL2: Chapter[] = [
+  {
+    id: 'capsule-wardrobe', volume: 2, title: 'A Wardrobe That Works Together', minutes: 8,
+    dek: 'Build from a small set of pieces that combine freely, then add character.',
+    blocks: [
+      { t: 'p', text: 'A capsule wardrobe is not about owning little; it is about owning things that combine. If every top works with most trousers and every pair of shoes works with most outfits, a modest collection produces dozens of looks.' },
+      { t: 'h', text: 'A dependable starting point' },
+      { t: 'list', items: ['Two or three [oxford shirts](g:ocbd) and a few good [tees](g:t-shirt)', 'A navy [crewneck](g:crewneck-sweater) and a grey sweatshirt', 'Dark [jeans](g:jeans), stone [chinos](g:chinos), grey [wool trousers](g:dress-trousers)', 'A [navy blazer](g:blazer) and a casual jacket such as a [chore coat](g:chore-coat)', 'Brown [loafers](g:loafer) or [derbies](g:derby), clean [sneakers](g:sneakers), and [boots](g:service-boots)', 'An [overcoat](g:overcoat) or [peacoat](g:peacoat) for winter'] },
+      { t: 'note', text: '**Interpretation:** start with neutrals and add colour once you know how you like to dress. Your capsule will look different from anyone else\'s — that is the point.' },
+      { t: 'demo', kind: 'preset', preset: 'contemporary-casual' },
+      { t: 'deeper', title: 'Counting combinations', body: ['Six tops, four trousers and three pairs of shoes that all agree produce 72 outfits before you add a jacket. Every mismatched purchase removes options; every versatile one multiplies them.'] },
+    ],
+  },
+  {
+    id: 'shirts', volume: 2, title: 'Shirts & Collars', minutes: 8,
+    dek: 'From the T-shirt to the evening shirt, collars and cloth signal how formal a shirt is.',
+    garments: ['t-shirt', 'polo', 'ocbd', 'dress-shirt', 'flannel-shirt', 'camp-collar-shirt', 'chambray-shirt'],
+    blocks: [
+      { t: 'p', text: 'Shirts span the entire formality ladder. The collar and the cloth tell you where each sits.' },
+      { t: 'demo', kind: 'anatomy', anatomy: 'shirt' },
+      { t: 'h', text: 'Collars, from casual to formal' },
+      { t: 'list', items: ['**Camp collar** — lies flat and open. Resort and summer.', '**Button-down** — soft, sporty, collegiate. The [OCBD](g:ocbd).', '**Point** — narrow opening; classic and versatile.', '**Spread** — wider opening for fuller tie knots; a business standard.', '**Wing** — upright with folded tips; white tie and sometimes black tie.'] },
+      { t: 'h', text: 'Cloth' },
+      { t: 'p', text: 'Poplin is smooth and crisp; twill has a diagonal sheen; oxford is textured and casual; flannel is brushed and warm; linen breathes and creases. A smoother cloth is a dressier shirt.' },
+      { t: 'note', text: '**Convention:** short-sleeved shirts are casual. Wearing one with a tie remains unusual outside specific uniforms.' },
+      { t: 'demo', kind: 'identify', caption: 'Test yourself: can you name the collar?' },
+    ],
+  },
+  {
+    id: 'trousers', volume: 2, title: 'Trousers: Rise, Leg & Break', minutes: 8,
+    dek: 'Three measurements decide whether trousers flatter: where they sit, how the leg falls, and where it ends.',
+    garments: ['jeans', 'chinos', 'dress-trousers', 'pleated-trousers', 'corduroys'],
+    blocks: [
+      { t: 'demo', kind: 'anatomy', anatomy: 'trousers' },
+      { t: 'h', text: 'Rise' },
+      { t: 'p', text: 'The rise is the distance from crotch to waistband. A **high rise** sits at the natural waist — around the navel — and is traditional with tailoring and braces. A **mid rise** sits a little lower and suits most casual trousers. A **low rise** sits on the hips.' },
+      { t: 'h', text: 'Leg' },
+      { t: 'p', text: 'Slim, straight, relaxed and wide describe how much cloth surrounds the leg from thigh to hem. Pleats add room at the hip and help a fuller leg drape.' },
+      { t: 'h', text: 'Break' },
+      { t: 'p', text: 'The break is the fold where the hem meets the shoe. **No break** looks modern and clean; a **slight break** is the classic default; a **full break** is traditional with wider trousers. Turn-ups (cuffs) add weight to the hem and suit heavier cloths and pleated trousers.' },
+      { t: 'demo', kind: 'silhouette-lab' },
+      { t: 'note', text: '**Convention:** suit trousers are rarely worn as separates; their smooth matched cloth looks like a missing jacket.' },
+    ],
+  },
+  {
+    id: 'knitwear', volume: 2, title: 'Knitwear', minutes: 6,
+    dek: 'Sweaters and cardigans add warmth, texture and a softer alternative to tailoring.',
+    garments: ['crewneck-sweater', 'v-neck-sweater', 'cardigan', 'turtleneck', 'cable-knit'],
+    blocks: [
+      { t: 'p', text: 'Knitwear is measured by **gauge** — how many stitches fit in an inch. Fine-gauge knits are smooth and slim enough for tailoring; chunky knits are casual and stand alone.' },
+      { t: 'list', items: ['[Crewneck](g:crewneck-sweater) — the most versatile; over a shirt or alone.', '[V-neck](g:v-neck-sweater) — frames a shirt collar and tie.', '[Cardigan](g:cardigan) — works like a soft jacket.', '[Roll-neck](g:turtleneck) — replaces shirt and tie.', '[Cable-knit](g:cable-knit) — heavy texture for winter.'] },
+      { t: 'demo', kind: 'preset', preset: 'ivy-campus' },
+      { t: 'note', text: '**Convention:** a shirt collar worn over a crewneck is tucked inside; under a V-neck, it lies flat. Neither shirt tails nor cuffs should hang below the sweater.' },
+    ],
+  },
+  {
+    id: 'outerwear', volume: 2, title: 'Coats & Jackets', minutes: 8,
+    dek: 'Outerwear is the first thing people see. Choose for weather, then for formality.',
+    garments: ['overcoat', 'trench-coat', 'peacoat', 'parka', 'field-jacket', 'chore-coat', 'harrington'],
+    blocks: [
+      { t: 'p', text: 'An overcoat over a suit, a peacoat over a sweater, a parka over a hoodie: each coat belongs to a level of formality, and matching the coat to the outfit beneath keeps the whole coherent.' },
+      { t: 'demo', kind: 'anatomy', anatomy: 'coat' },
+      { t: 'h', text: 'Rules of length' },
+      { t: 'list', items: ['A coat worn over tailoring should be longer than the jacket beneath.', 'Short jackets — Harringtons, bombers, denim — suit casual outfits and fuller trousers.', 'Hip-length coats like the [peacoat](g:peacoat) are a bridge between the two.'] },
+      { t: 'demo', kind: 'preset', preset: 'winter-dinner' },
+      { t: 'deeper', title: 'Military origins', body: ['The [trench coat](g:trench-coat), [peacoat](g:peacoat), [field jacket](g:field-jacket) and [bomber](g:bomber) all began as military issue. That is why they are full of epaulettes, storm flaps and utility pockets — and why they read as rugged even in fine cloth.'] },
+    ],
+  },
+  {
+    id: 'shoes', volume: 2, title: 'Shoes', minutes: 9,
+    dek: 'Footwear anchors every outfit. Lacing, toe and sole tell you how formal a shoe is.',
+    garments: ['oxford', 'derby', 'brogue', 'loafer', 'chelsea-boots', 'sneakers'],
+    blocks: [
+      { t: 'demo', kind: 'anatomy', anatomy: 'shoe' },
+      { t: 'h', text: 'Oxford or derby?' },
+      { t: 'p', text: 'An [oxford](g:oxford) has **closed lacing**: the eyelet tabs are stitched beneath the front of the shoe, giving a sleek V. A [derby](g:derby) has **open lacing**: the tabs sit on top, so the shoe opens wider. Oxfords are more formal; derbies are more adaptable.' },
+      { t: 'h', text: 'What changes formality' },
+      { t: 'list', items: ['**Colour:** black is most formal, then dark brown, then lighter browns and suede.', '**Decoration:** the more broguing, the more casual.', '**Sole:** thin leather is dressy; thick rubber or crepe is casual.', '**Shape:** a sleek, elongated toe is dressier than a round one.'] },
+      { t: 'note', text: '**Convention:** brown shoes were once considered "country" and never worn in town. Today dark brown is acceptable with most suits except at the most formal events.' },
+      { t: 'demo', kind: 'identify' },
+    ],
+  },
+  {
+    id: 'accessories', volume: 2, title: 'Accessories with Restraint', minutes: 6,
+    dek: 'Ties, belts, watches, hats and pocket squares — the details that finish an outfit.',
+    garments: ['tie', 'pocket-square', 'belt', 'watch', 'scarf', 'fedora'],
+    blocks: [
+      { t: 'p', text: 'Accessories carry personality, but they work best when they agree with the outfit: one point of interest rather than five.' },
+      { t: 'list', items: ['**Ties** should reach the belt buckle and suit the lapel width.', '**Pocket squares** complement the tie, never match it.', '**Belts** roughly match the shoes in colour and finish.', '**Watches** stay slim under shirt cuffs.', '**Hats** belong to their era and formality — a fedora with tailoring, a beanie with workwear.'] },
+      { t: 'note', text: '**Convention:** never wear a belt and braces together.' },
+      { t: 'demo', kind: 'preset', preset: 'business-suit' },
+    ],
+  },
+]
