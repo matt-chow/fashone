@@ -1,6 +1,6 @@
 # Fashone — The Illustrated Handbook of Men's Style
 
-An interactive, illustrated guide to menswear: how clothes fit, how colours and patterns combine, what occasions ask for, and where style traditions come from. Every figure is drawn in code (SVG). Alongside them sit 26 archival photographs, fashion plates and advertisements, all public domain, CC0 or CC BY. Each has its source and rights recorded in `src/data/archive.json` and credited on the in-app `/credits` page. All data stays in your browser.
+An interactive, illustrated guide to menswear: how clothes fit, how colours and patterns combine, what occasions ask for, and where style traditions come from. Every figure is drawn in code (SVG). Alongside them sit 26 archival photographs, fashion plates and advertisements (provenance in `src/data/archive.json`) and 65 photographs of real garments and people (provenance in `src/data/photos.json`). Every image is public domain, CC0, CC BY or CC BY-SA, checked against its source record, and credited on the in-app `/credits` page. All data stays in your browser.
 
 ## What's inside
 
@@ -42,6 +42,14 @@ npm run preview    # serve dist/
 ## Notes on content
 
 The editorial text is original and written for this project. It summarises widely shared tailoring conventions and is not copied from any publication. Style histories are deliberately broad and approximate. `PRODUCT.md` records the product intent behind the design; it was inferred from the original brief.
+
+## Photographs
+
+`src/data/photos.json` is the manifest for photographs. Each entry has the file, creator, date, source page, original file URL, licence and licence URL, the rights basis, a ready-made attribution line, alt text, an optional caption note, and where it is used (`garments` for the Encyclopedia header, `body` for the "As worn" figure, `styles` for the Atlas). `validate()` checks that every field is present and every licence is on the open list, and a test checks that every file is on disk. Photographs are shown on a 4:5 plate, uncropped (`object-contain`) and without the tint used on archival plates, so colours stay true. Style photographs that are contemporary or revival carry a note saying so.
+
+All photographs come from Wikimedia Commons, some via museums (Auckland Museum, RISD, Museum Rotterdam), the Library of Congress, Fortepan or Flickr. Unsplash and Pexels need API keys and were not used. The CC BY-SA images were resized and converted to WebP; those adapted files remain under CC BY-SA.
+
+Still on illustration only, because no accurate photograph with clear rights was found: chambray shirt, chore coat, corduroys, crewneck sweater, dress trousers, braided dress trousers, suit jacket, suit trousers, fatigue trousers, gilet, knit tie, linen shirt, linen trousers, opera pumps, overshirt, peacoat, pleated trousers, shorts, T-shirt, turtleneck, V-neck sweater, leather jacket, trench coat, Oxford shoe and service boots. The same applies to these styles: Classic Tailoring, Ivy, Preppy, Outdoor, Japanese Americana and Contemporary Casual. Candidates for leather jacket, trench coat, Oxford, service boots and Classic Tailoring were rejected for unclear rights (a "No Copyright – United States" statement only, a photographer credit that did not match the uploader, or no stated photo licence) or a wrong subject (a pair of women's boots).
 
 ## Known limitations
 

@@ -7,7 +7,8 @@ import { preset } from '../data/presets'
 import { STYLES, style } from '../data/styles'
 import { Rich } from '../lib/inline'
 import { archiveFor } from '../data/archive'
-import { ArchivePlate, BookmarkButton, Crumbs, Ornament, Plate, Specimen, useTitle } from '../ui/bits'
+import { photoFor } from '../data/photos'
+import { ArchivePlate, PhotoPlate, BookmarkButton, Crumbs, Ornament, Plate, Specimen, useTitle } from '../ui/bits'
 import NotFound from './NotFound'
 
 export default function StylePage() {
@@ -19,6 +20,7 @@ export default function StylePage() {
   const influencedBy = s.influences.map(style).filter(x => !!x)
   const influenced = STYLES.filter(x => x.influences.includes(s.id))
   const arch = archiveFor('styles', s.id)
+  const photo = photoFor('styles', s.id)
 
   return (
     <article className="mx-auto max-w-6xl px-4 pb-16 pt-6 sm:px-6">
@@ -61,6 +63,7 @@ export default function StylePage() {
         </div>
 
         <aside className="space-y-8">
+          {photo && <PhotoPlate p={photo} />}
           {arch && <ArchivePlate a={arch} />}
           {!!presets.length && (
             <section aria-labelledby="ex-h">

@@ -10,7 +10,8 @@ import { style } from '../data/styles'
 import { Rich } from '../lib/inline'
 import { Anatomy } from '../ui/Anatomy'
 import { archiveFor } from '../data/archive'
-import { ArchivePlate, BookmarkButton, Crumbs, Plate, Specimen, useTitle } from '../ui/bits'
+import { photoFor } from '../data/photos'
+import { ArchivePlate, BookmarkButton, Crumbs, PhotoPlate, Plate, Specimen, useTitle } from '../ui/bits'
 import NotFound from './NotFound'
 
 const cap = (s: string) => s[0].toUpperCase() + s.slice(1)
@@ -24,6 +25,7 @@ export default function GarmentPage() {
   const chapters = CHAPTERS.filter(c => c.garments?.includes(g.id))
   const outfits = PRESETS.filter(p => Object.values(p.outfit.pieces).some(x => x.garmentId === g.id)).slice(0, 4)
   const arch = archiveFor('garments', g.id)
+  const photo = photoFor('garments', g.id), worn = photoFor('body', g.id)
   const related = [...new Set([...(g.related ?? []), ...(g.pairsWith ?? [])])].map(garment).filter(x => !!x)
 
   return (
@@ -47,7 +49,7 @@ export default function GarmentPage() {
             <Link to={`/encyclopedia/compare?a=${g.id}`} className="btn"><Scale size={15} aria-hidden /> Compare</Link>
           </div>
         </div>
-        <div className="plate mx-auto flex h-80 w-full max-w-72 items-center justify-center p-4"><Specimen g={g} className="h-full w-full" /></div>
+        {photo ? <PhotoPlate p={photo} className="mx-auto w-full max-w-72" /> : <div className="plate mx-auto flex h-80 w-full max-w-72 items-center justify-center p-4"><Specimen g={g} className="h-full w-full" /></div>}
       </header>
 
       <div className="mt-14 grid gap-x-12 gap-y-10 lg:grid-cols-[minmax(0,1fr)_17rem]">
@@ -59,6 +61,7 @@ export default function GarmentPage() {
             </Sec>
           )}
           {g.fit && <Sec title="Fit"><p><Rich text={g.fit} /></p></Sec>}
+          {worn && <Sec title="As worn"><PhotoPlate p={worn} className="max-w-sm" /></Sec>}
           {g.fabrics && <Sec title="Fabrics"><p><Rich text={g.fabrics} /></p></Sec>}
           {g.styling && <Sec title="How to wear it"><p><Rich text={g.styling} /></p></Sec>}
           {g.anatomy && <div className="!max-w-none"><Anatomy id={g.anatomy} /></div>}

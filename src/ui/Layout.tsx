@@ -145,7 +145,7 @@ function Footer() {
       <div className="mx-auto grid max-w-[84rem] gap-8 px-4 py-10 sm:px-6 md:grid-cols-[1.4fr_1fr_1fr]">
         <div>
           <p className="font-display text-2xl">Fashone</p>
-          <p className="mt-2 max-w-sm text-sm leading-relaxed text-ink-2">An illustrated handbook of men's style. Every figure is drawn in code, archival plates are credited to their sources, and your outfits and progress stay in this browser.</p>
+          <p className="mt-2 max-w-sm text-sm leading-relaxed text-ink-2">An illustrated handbook of men's style. Every figure is drawn in code, photographs and archival plates are credited to their sources, and your outfits and progress stay in this browser.</p>
         </div>
         <nav aria-label="Footer">
           <ul className="space-y-1.5 text-sm">

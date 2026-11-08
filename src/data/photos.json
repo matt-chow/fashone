@@ -1,0 +1,1632 @@
+[
+ {
+  "id": "blazer",
+  "file": "photos/blazer.webp",
+  "width": 1050,
+  "height": 1400,
+  "title": "Navy blazer",
+  "creator": "サフィル (Commons user)",
+  "date": "2018",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Navy_blazer_jacket.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Navy_blazer_jacket.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "サフィル (Commons user), “Navy blazer” (2018). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A navy single-breasted blazer with brass buttons, photographed flat against a wooden floor.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "blazer"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "bomber",
+  "file": "photos/bomber.webp",
+  "width": 1400,
+  "height": 1176,
+  "title": "Nylon flight jacket",
+  "creator": "Spuggie (English Wikipedia user)",
+  "date": "2006",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:MA-2_jacket.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/MA-2_jacket.jpg",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "rightsBasis": "CC BY 2.5 as stated on the Commons file page ({{self|GFDL-with-disclaimers|Cc-by-2.5|migration=relicense}}); checked 8 Nov 2026.",
+  "attribution": "Spuggie (English Wikipedia user), “Nylon flight jacket” (2006). Wikimedia Commons. CC BY 2.5. Resized and converted to WebP.",
+  "alt": "A grey-green nylon flight jacket with ribbed collar, cuffs and hem, laid flat.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "bomber"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "brogue",
+  "file": "photos/brogue.webp",
+  "width": 1400,
+  "height": 903,
+  "title": "Brogued derby in box calf",
+  "creator": "Wikipedia-ce (Commons user)",
+  "date": "2019",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Derby_of_box_calf_leather_with_brogues.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/A_Derby_of_box_calf_leather_with_brogues.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{self|cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "Wikipedia-ce (Commons user), “Brogued derby in box calf” (2019). Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "A brown leather lace-up shoe with punched broguing along the toe cap and seams, on a white background.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "brogue"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "baseball-cap",
+  "file": "photos/baseball-cap.webp",
+  "width": 854,
+  "height": 558,
+  "title": "Blue baseball cap",
+  "creator": "TexasRebel (Commons user)",
+  "date": "2007",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baseball_cap.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Baseball_cap.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Released into the public domain by the photographer (PD-self).",
+  "attribution": "TexasRebel (Commons user), “Blue baseball cap” (2007). Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "A plain navy six-panel baseball cap with a curved peak, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "baseball-cap"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "beanie",
+  "file": "photos/beanie.webp",
+  "width": 1400,
+  "height": 1050,
+  "title": "Knitted beanie",
+  "creator": "Ajay Suresh",
+  "date": "2021",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beanie_-_Knit_Cap_(51013511676).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Beanie_-_Knit_Cap_%2851013511676%29.jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "rightsBasis": "CC BY 2.0 as stated on the Commons file page ({{cc-by-2.0}}); checked 8 Nov 2026.",
+  "attribution": "Ajay Suresh, “Knitted beanie” (2021). Flickr, via Wikimedia Commons. CC BY 2.0. Resized and converted to WebP.",
+  "alt": "A flecked green and brown knitted beanie with a turned-up cuff, standing on a table.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "beanie"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "belt",
+  "file": "photos/belt.webp",
+  "width": 1400,
+  "height": 778,
+  "title": "Black leather belt",
+  "creator": "Evan-Amos",
+  "date": "2010",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belt-clothing.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Belt-clothing.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Released into the public domain by the photographer, Evan-Amos (PD-self).",
+  "attribution": "Evan-Amos, “Black leather belt” (2010). Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "A worn black leather belt with a silver prong buckle, coiled on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "belt"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "bow-tie",
+  "file": "photos/bow-tie.webp",
+  "width": 1400,
+  "height": 956,
+  "title": "Black bow tie",
+  "creator": "Auckland War Memorial Museum",
+  "date": "undated (catalogued 2001)",
+  "sourceOrg": "Auckland War Memorial Museum, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tie,_bow_(AM_2001.25.1167-1).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Tie%2C_bow_%28AM_2001.25.1167-1%29.jpg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "rightsBasis": "CC BY 4.0 as stated on the Commons file page ({{CC-BY-4.0|1=Auckland Museum}}); checked 8 Nov 2026.",
+  "attribution": "Auckland War Memorial Museum, “Black bow tie” (undated (catalogued 2001)). Auckland War Memorial Museum, via Wikimedia Commons. CC BY 4.0. Resized and converted to WebP.",
+  "alt": "A black satin pre-tied bow tie with its neckband, on a grey background.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "bow-tie"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "braces",
+  "file": "photos/braces.webp",
+  "width": 1071,
+  "height": 1400,
+  "title": "Army braces, 1970s",
+  "creator": "Auckland War Memorial Museum",
+  "date": "1971–1974",
+  "sourceOrg": "Auckland War Memorial Museum, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braces_(AM_1979.59-1).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Braces_%28AM_1979.59-1%29.jpg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "rightsBasis": "CC BY 4.0 as stated on the Commons file page ({{CC-BY-4.0|1=Auckland Museum}}); checked 8 Nov 2026.",
+  "attribution": "Auckland War Memorial Museum, “Army braces, 1970s” (1971–1974). Auckland War Memorial Museum, via Wikimedia Commons. CC BY 4.0. Resized and converted to WebP.",
+  "alt": "A pair of khaki elastic braces with brown leather button tabs, hanging straight.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "braces"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "braces-body",
+  "file": "photos/braces-body.webp",
+  "width": 1400,
+  "height": 933,
+  "title": "Braces and bow tie worn",
+  "creator": "Pixel.la Free Stock Photos",
+  "date": "2014",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bow-tie-businessman-fashion-man-1_(24326584635).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bow-tie-businessman-fashion-man-1_%2824326584635%29.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "Pixel.la Free Stock Photos, “Braces and bow tie worn” (2014). Flickr, via Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "A man in a white shirt, bow tie and dark braces with his arms folded; head cropped out of frame.",
+  "note": null,
+  "usage": {
+   "garments": [],
+   "body": [
+    "braces"
+   ],
+   "styles": []
+  }
+ },
+ {
+  "id": "cable-knit",
+  "file": "photos/cable-knit.webp",
+  "width": 1252,
+  "height": 1400,
+  "title": "Aran sweater",
+  "creator": "Smee (Commons user)",
+  "date": "2007",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Aran_Sweater.JPG",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Green_Aran_Sweater.JPG",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Released into the public domain by the photographer (PD-self).",
+  "attribution": "Smee (Commons user), “Aran sweater” (2007). Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "A dark green Aran sweater with vertical cable panels, laid flat.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "cable-knit"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "camp-collar-shirt",
+  "file": "photos/camp-collar-shirt.webp",
+  "width": 933,
+  "height": 1400,
+  "title": "Printed camp-collar shirt",
+  "creator": "Npimagesrwanda (Commons user)",
+  "date": "2021",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:539A2121.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/539A2121.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Npimagesrwanda (Commons user), “Printed camp-collar shirt” (2021). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A man in a short-sleeved blue floral shirt with a flat open collar, standing before a green backdrop.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "camp-collar-shirt"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "cardigan",
+  "file": "photos/cardigan.webp",
+  "width": 710,
+  "height": 950,
+  "title": "Perry Como in a cardigan",
+  "creator": "NBC Television",
+  "date": "1957",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perry_Como_1957.JPG",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Perry_Como_1957.JPG",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "US network publicity photograph published 1957 without a copyright notice (PD-Pre1978).",
+  "attribution": "NBC Television, “Perry Como in a cardigan” (1957). Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "Black-and-white publicity photograph of the singer Perry Como in a light shawl-collar cardigan over a shirt.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "cardigan"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "cargo-trousers",
+  "file": "photos/cargo-trousers.webp",
+  "width": 930,
+  "height": 1400,
+  "title": "Cargo trousers",
+  "creator": "Ocdp (Commons user)",
+  "date": "2013",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cargo_pants_001.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cargo_pants_001.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{self|cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "Ocdp (Commons user), “Cargo trousers” (2013). Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "Olive cotton cargo trousers with bellows thigh pockets, hanging against a white door.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "cargo-trousers"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "chelsea-boots",
+  "file": "photos/chelsea-boots.webp",
+  "width": 1024,
+  "height": 768,
+  "title": "Black Chelsea boot",
+  "creator": "Justin Schneider",
+  "date": "2014",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Web_CBO_right_1024x1024.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Web_CBO_right_1024x1024.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Justin Schneider, “Black Chelsea boot” (2014). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A black leather Chelsea boot with elastic side gusset, in profile on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "chelsea-boots"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "chinos",
+  "file": "photos/chinos.webp",
+  "width": 1050,
+  "height": 1400,
+  "title": "Khaki chinos",
+  "creator": "Kuha455405 (Commons user)",
+  "date": "2009",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chino_pants.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Chino_pants.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{GFDL|migration=relicense}}); checked 8 Nov 2026.",
+  "attribution": "Kuha455405 (Commons user), “Khaki chinos” (2009). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A pair of pale khaki chino trousers laid flat on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "chinos"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "chukka-boots",
+  "file": "photos/chukka-boots.webp",
+  "width": 1400,
+  "height": 717,
+  "title": "Suede chukka boot",
+  "creator": "Reinthal (Commons user)",
+  "date": "2015",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chukka_boot.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Chukka_boot.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Reinthal (Commons user), “Suede chukka boot” (2015). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A tan suede two-eyelet chukka boot with a leather sole, on a wooden surface.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "chukka-boots"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "cufflinks",
+  "file": "photos/cufflinks.webp",
+  "width": 1400,
+  "height": 763,
+  "title": "Cufflinks",
+  "creator": "Hgrobe (Commons user)",
+  "date": "2011",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cufflinks-06_perl.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cufflinks-06_perl.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{self|cc-by-sa-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Hgrobe (Commons user), “Cufflinks” (2011). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A pair of gold bar cufflinks with square faces, on green felt.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "cufflinks"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "derby",
+  "file": "photos/derby.webp",
+  "width": 1400,
+  "height": 811,
+  "title": "Plain derby",
+  "creator": "Wikipedia-ce (Commons user)",
+  "date": "2019",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Plein_Derby.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/A_Plein_Derby.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{self|cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "Wikipedia-ce (Commons user), “Plain derby” (2019). Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "A plain brown leather derby shoe with open lacing, in profile on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "derby"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "dinner-suit",
+  "file": "photos/dinner-suit.webp",
+  "width": 933,
+  "height": 1400,
+  "title": "Single-breasted dinner suit",
+  "creator": "KoeppiK (Commons user)",
+  "date": "2020",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Man_wearing_black_tie.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Man_wearing_black_tie.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "KoeppiK (Commons user), “Single-breasted dinner suit” (2020). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A man standing in a black single-breasted shawl-collar dinner jacket, matching trousers, white shirt and black bow tie.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "dinner-suit",
+    "dinner-jacket"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "double-breasted-jacket",
+  "file": "photos/double-breasted-jacket.webp",
+  "width": 801,
+  "height": 1200,
+  "title": "Double-breasted suit at Pitti Uomo",
+  "creator": "Bespoketailorfan (Commons user)",
+  "date": "2017",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luca-rubinacci.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Luca-rubinacci.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Bespoketailorfan (Commons user), “Double-breasted suit at Pitti Uomo” (2017). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "Luca Rubinacci at Pitti Uomo in a purple windowpane double-breasted suit, tie and dark fedora.",
+  "note": "Contemporary street photograph from the Florence menswear fair, not a historical record.",
+  "usage": {
+   "garments": [
+    "double-breasted-jacket"
+   ],
+   "body": [],
+   "styles": [
+    "italian"
+   ]
+  }
+ },
+ {
+  "id": "dress-shirt",
+  "file": "photos/dress-shirt.webp",
+  "width": 1246,
+  "height": 1400,
+  "title": "Double-cuff dress shirt",
+  "creator": "Incal (Commons user)",
+  "date": "2011",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camisade_pu%C3%B1o_doble.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Camisade_pu%C3%B1o_doble.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{self|cc-by-sa-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Incal (Commons user), “Double-cuff dress shirt” (2011). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A cream poplin dress shirt with a spread collar and double cuffs, folded on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "dress-shirt"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "dress-shirt-wing",
+  "file": "photos/dress-shirt-wing.webp",
+  "width": 1400,
+  "height": 1050,
+  "title": "Pin-tucked evening shirt",
+  "creator": "Auckland War Memorial Museum",
+  "date": "catalogued 1967",
+  "sourceOrg": "Auckland War Memorial Museum, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shirt,_dress_(AM_1967.118-1).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Shirt%2C_dress_%28AM_1967.118-1%29.jpg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "rightsBasis": "CC BY 4.0 as stated on the Commons file page ({{CC-BY-4.0|1=Auckland Museum}}); checked 8 Nov 2026.",
+  "attribution": "Auckland War Memorial Museum, “Pin-tucked evening shirt” (catalogued 1967). Auckland War Memorial Museum, via Wikimedia Commons. CC BY 4.0. Resized and converted to WebP.",
+  "alt": "A white evening shirt with a pin-tucked bib front, from the wardrobe of Sir Hugh Walpole, laid flat.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "dress-shirt-wing"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "fedora",
+  "file": "photos/fedora.webp",
+  "width": 1400,
+  "height": 1243,
+  "title": "Borsalino fedora",
+  "creator": "Kjetil Ree",
+  "date": "2005",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_fedora_hat,_made_by_Borsalino.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/A_fedora_hat%2C_made_by_Borsalino.jpg",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "rightsBasis": "Own work, multi-licensed by the photographer ({{Self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-2.5}}); used under CC BY 2.5. Checked 8 Nov 2026.",
+  "attribution": "Kjetil Ree, “Borsalino fedora” (2005). Wikimedia Commons. CC BY 2.5. Resized and converted to WebP.",
+  "alt": "A grey felt fedora with a pinched crown and dark grosgrain band, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "fedora"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "field-jacket",
+  "file": "photos/field-jacket.webp",
+  "width": 700,
+  "height": 600,
+  "title": "M-65 field jacket",
+  "creator": "HermannZapf (German Wikipedia user)",
+  "date": "2006",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:M65_schimanski_jacke.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/M65_schimanski_jacke.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Released into the public domain by the photographer on German Wikipedia (PD-user-w).",
+  "attribution": "HermannZapf (German Wikipedia user), “M-65 field jacket” (2006). Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "A tan M-65 field jacket with four flap pockets and a stand collar, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "field-jacket"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "flannel-shirt",
+  "file": "photos/flannel-shirt.webp",
+  "width": 814,
+  "height": 1170,
+  "title": "Checked flannel shirt",
+  "creator": "Ryj (Commons user)",
+  "date": "2008",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flanell_1.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flanell_1.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{GFDL|migration=relicense}}); checked 8 Nov 2026.",
+  "attribution": "Ryj (Commons user), “Checked flannel shirt” (2008). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A blue, black and white checked flannel shirt with a button-down collar, laid flat.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "flannel-shirt"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "flat-cap",
+  "file": "photos/flat-cap.webp",
+  "width": 1400,
+  "height": 1099,
+  "title": "Summer flat cap, 1935",
+  "creator": "Fa. Vero, H. van Veen (Museum Rotterdam)",
+  "date": "1935",
+  "sourceOrg": "Museum Rotterdam, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zomerpet_van_zwart-wit-rode_geruite_stof,_objectnr_20765.JPG",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zomerpet_van_zwart-wit-rode_geruite_stof%2C_objectnr_20765.JPG",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{cc-by-sa-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Fa. Vero, H. van Veen (Museum Rotterdam), “Summer flat cap, 1935” (1935). Museum Rotterdam, via Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A flat cap in black, white and red check on a museum stand, seen from the side.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "flat-cap"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "flat-cap-body",
+  "file": "photos/flat-cap-body.webp",
+  "width": 1035,
+  "height": 1400,
+  "title": "Man in a flat cap, 1971",
+  "creator": "Fortepan / Vörös István",
+  "date": "1971",
+  "sourceOrg": "Fortepan, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_Fortepan_54948.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Portrait_Fortepan_54948.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{CC-BY-SA-3.0|1=FOTO:FORTEPAN / Vörös István}}); checked 8 Nov 2026.",
+  "attribution": "Fortepan / Vörös István, “Man in a flat cap, 1971” (1971). Fortepan, via Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "Black-and-white photograph of an older man in a tweed flat cap, hand at his chin.",
+  "note": null,
+  "usage": {
+   "garments": [],
+   "body": [
+    "flat-cap"
+   ],
+   "styles": []
+  }
+ },
+ {
+  "id": "harrington",
+  "file": "photos/harrington.webp",
+  "width": 1400,
+  "height": 1218,
+  "title": "Harrington jacket",
+  "creator": "Ajay Suresh",
+  "date": "2021",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harrington_Jacket_(51079649513).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Harrington_Jacket_%2851079649513%29.jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "rightsBasis": "CC BY 2.0 as stated on the Commons file page ({{cc-by-2.0}}); checked 8 Nov 2026.",
+  "attribution": "Ajay Suresh, “Harrington jacket” (2021). Flickr, via Wikimedia Commons. CC BY 2.0. Resized and converted to WebP.",
+  "alt": "A navy Harrington jacket with a checked lining showing at the collar, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "harrington"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "henley",
+  "file": "photos/henley.webp",
+  "width": 1400,
+  "height": 1059,
+  "title": "Ribbed henley",
+  "creator": "Bwilke (Commons user)",
+  "date": "2023",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klassisches_Henley_Shirt.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Klassisches_Henley_Shirt.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Bwilke (Commons user), “Ribbed henley” (2023). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A man in a fitted cream ribbed long-sleeved henley with a buttoned placket; face out of frame.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "henley"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "hoodie",
+  "file": "photos/hoodie.webp",
+  "width": 1400,
+  "height": 933,
+  "title": "Hooded sweatshirt worn",
+  "creator": "Phat Nguyen",
+  "date": "2010",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Da_Lat_09-49-1.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Da_Lat_09-49-1.jpg",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "rightsBasis": "Own work licensed by the photographer ({{cc-by-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Phat Nguyen, “Hooded sweatshirt worn” (2010). Wikimedia Commons. CC BY 3.0. Resized and converted to WebP.",
+  "alt": "A young man in a grey hooded sweatshirt, seen in profile outdoors.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "hoodie"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "jeans",
+  "file": "photos/jeans.webp",
+  "width": 937,
+  "height": 1400,
+  "title": "Blue jeans",
+  "creator": "Artful Dodger (Museum Rotterdam)",
+  "date": "2008",
+  "sourceOrg": "Museum Rotterdam, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blauwe_jeans,_merk_Artful_Dodger,_maat_32,_zakken_achterzijde_met_opvallende_witte_print,_objectnr_86905-3(1).JPG",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Blauwe_jeans%2C_merk_Artful_Dodger%2C_maat_32%2C_zakken_achterzijde_met_opvallende_witte_print%2C_objectnr_86905-3%281%29.JPG",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{cc-by-sa-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Artful Dodger (Museum Rotterdam), “Blue jeans” (2008). Museum Rotterdam, via Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A pair of dark indigo jeans on a museum mannequin form, front view.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "jeans"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "loafer",
+  "file": "photos/loafer.webp",
+  "width": 1400,
+  "height": 916,
+  "title": "Penny loafer",
+  "creator": "Wikipedia-ce (Commons user)",
+  "date": "2019",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Penny_Loafer.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/A_Penny_Loafer.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{self|cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "Wikipedia-ce (Commons user), “Penny loafer” (2019). Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "A brown leather penny loafer with a shoe tree, in profile on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "loafer"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "monk-strap",
+  "file": "photos/monk-strap.webp",
+  "width": 789,
+  "height": 751,
+  "title": "Double monk strap",
+  "creator": "Rainer Ersfeld",
+  "date": "2005",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double_Monk_Felsted_(Grenson).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Double_Monk_Felsted_%28Grenson%29.jpg",
+  "license": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "rightsBasis": "CC BY-SA 2.5 as stated on the Commons file page ({{cc-by-sa-2.5}}); checked 8 Nov 2026.",
+  "attribution": "Rainer Ersfeld, “Double monk strap” (2005). Wikimedia Commons. CC BY-SA 2.5. Resized and converted to WebP.",
+  "alt": "A brown leather double monk-strap shoe with two buckles, angled on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "monk-strap"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "monk-strap-body",
+  "file": "photos/monk-strap-body.webp",
+  "width": 1400,
+  "height": 933,
+  "title": "Monk straps worn",
+  "creator": "Taftclothing (Commons user)",
+  "date": "2018",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taft%27s_Lucca_Monk_Shoe.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Taft%27s_Lucca_Monk_Shoe.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Taftclothing (Commons user), “Monk straps worn” (2018). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "Close view of feet in brown monk-strap shoes with grey trousers and socks.",
+  "note": null,
+  "usage": {
+   "garments": [],
+   "body": [
+    "monk-strap"
+   ],
+   "styles": []
+  }
+ },
+ {
+  "id": "ocbd",
+  "file": "photos/ocbd.webp",
+  "width": 1050,
+  "height": 1400,
+  "title": "Button-down shirt",
+  "creator": "Buptoua DAHON LAWZREN (Commons user)",
+  "date": "2022",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E9%9B%BB%E7%85%A7%E8%A1%97_Tin_Chiu_Street_%E6%B8%A3%E8%8F%AF%E9%81%93_Java_Road_%E6%B5%B7%E7%92%87_Victoria_Harbour_%E5%8C%97%E8%A7%92%E5%8C%AF_North_shopping_mall_Uniqlo_clothing_shop_spring_February_2022_Px3_45.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/HK_NP_%E5%8C%97%E8%A7%92_North_Point_%E9%9B%BB%E7%85%A7%E8%A1%97_Tin_Chiu_Street_%E6%B8%A3%E8%8F%AF%E9%81%93_Java_Road_%E6%B5%B7%E7%92%87_Victoria_Harbour_%E5%8C%97%E8%A7%92%E5%8C%AF_North_shopping_mall_Uniqlo_clothing_shop_spring_February_2022_Px3_45.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Buptoua DAHON LAWZREN (Commons user), “Button-down shirt” (2022). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A pale pink oxford shirt with a button-down collar on a hanger in a shop.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "ocbd"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "parka",
+  "file": "photos/parka.webp",
+  "width": 750,
+  "height": 1009,
+  "title": "M-65 fishtail parka",
+  "creator": "Dusty Roy (Commons user)",
+  "date": "2008",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:DustyRoyParka.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/DustyRoyParka.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Released into the public domain by the photographer (PD-self).",
+  "attribution": "Dusty Roy (Commons user), “M-65 fishtail parka” (2008). Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "An olive M-65 parka with a fur-trimmed hood, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "parka"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "pocket-square",
+  "file": "photos/pocket-square.webp",
+  "width": 1400,
+  "height": 931,
+  "title": "Pocket square in a suit",
+  "creator": "Paul Goyette",
+  "date": "2006",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grey_and_navy_suit_on_mannequin.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Grey_and_navy_suit_on_mannequin.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "rightsBasis": "CC BY-SA 2.0 as stated on the Commons file page ({{cc-by-sa-2.0}}); checked 8 Nov 2026.",
+  "attribution": "Paul Goyette, “Pocket square in a suit” (2006). Flickr, via Wikimedia Commons. CC BY-SA 2.0. Resized and converted to WebP.",
+  "alt": "A pale pocket square in the breast pocket of a navy suit on a shop mannequin, with shirt and tie.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "pocket-square"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "polo",
+  "file": "photos/polo.webp",
+  "width": 1050,
+  "height": 1400,
+  "title": "Navy polo shirt",
+  "creator": "poloshop.com (Commons uploader)",
+  "date": "2020",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poloshirt.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Poloshirt.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "poloshop.com (Commons uploader), “Navy polo shirt” (2020). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A navy piqué polo shirt with a two-button placket, folded flat.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "polo"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "round-glasses",
+  "file": "photos/round-glasses.webp",
+  "width": 1400,
+  "height": 933,
+  "title": "Round spectacles",
+  "creator": "LeeChangmin (via Pixabay)",
+  "date": "2014",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Round_glasses_pixabay.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Round_glasses_pixabay.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "Published on Pixabay in 2014 under CC0 and confirmed by a Commons reviewer ({{Pixabay|status=confirmed}}); checked 8 Nov 2026.",
+  "attribution": "LeeChangmin (via Pixabay), “Round spectacles” (2014). Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "A pair of thin gold round-framed spectacles on a white surface.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "round-glasses"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "rugby-shirt",
+  "file": "photos/rugby-shirt.webp",
+  "width": 1388,
+  "height": 1400,
+  "title": "Auckland rugby jersey, 1920s",
+  "creator": "Auckland War Memorial Museum",
+  "date": "1920s",
+  "sourceOrg": "Auckland War Memorial Museum, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jersey,_rugby_(AM_2005.83.2-4).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Jersey%2C_rugby_%28AM_2005.83.2-4%29.jpg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "rightsBasis": "CC BY 4.0 as stated on the Commons file page ({{CC-BY-4.0|1=Auckland Museum}}); checked 8 Nov 2026.",
+  "attribution": "Auckland War Memorial Museum, “Auckland rugby jersey, 1920s” (1920s). Auckland War Memorial Museum, via Wikimedia Commons. CC BY 4.0. Resized and converted to WebP.",
+  "alt": "A navy and white hooped rugby jersey with a white collar, laid flat.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "rugby-shirt"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "sandals",
+  "file": "photos/sandals.webp",
+  "width": 1050,
+  "height": 1400,
+  "title": "Leather sandals",
+  "creator": "Otuo-Akyampong Boakye",
+  "date": "2020",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Local_sandals_002.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Local_sandals_002.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Otuo-Akyampong Boakye, “Leather sandals” (2020). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A pair of brown leather strap sandals made in Ghana, on a wooden surface.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "sandals"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "scarf",
+  "file": "photos/scarf.webp",
+  "width": 1400,
+  "height": 933,
+  "title": "Checked scarf",
+  "creator": "Simon Ebner",
+  "date": "2010",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarf_soft.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Scarf_soft.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{self|cc-by-sa-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Simon Ebner, “Checked scarf” (2010). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A beige, black and red checked wool scarf with fringed ends, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "scarf"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "sneakers",
+  "file": "photos/sneakers.webp",
+  "width": 1400,
+  "height": 754,
+  "title": "Leather tennis shoes",
+  "creator": "Auckland War Memorial Museum (shoes by Adidas)",
+  "date": "1990s",
+  "sourceOrg": "Auckland War Memorial Museum, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shoes,_leather_tennis_(pair)_(AM_2017.30.1-14).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Shoes%2C_leather_tennis_%28pair%29_%28AM_2017.30.1-14%29.jpg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "rightsBasis": "CC BY 4.0 as stated on the Commons file page ({{CC-BY-4.0|1=Auckland Museum}}); checked 8 Nov 2026.",
+  "attribution": "Auckland War Memorial Museum (shoes by Adidas), “Leather tennis shoes” (1990s). Auckland War Memorial Museum, via Wikimedia Commons. CC BY 4.0. Resized and converted to WebP.",
+  "alt": "A pair of worn white leather Adidas tennis shoes with three stripes, which belonged to Sir Edmund Hillary.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "sneakers"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "socks",
+  "file": "photos/socks.webp",
+  "width": 787,
+  "height": 1400,
+  "title": "Wool camp socks",
+  "creator": "HadynMD (Commons user)",
+  "date": "2022",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabin_socks.png",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cabin_socks.png",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "HadynMD (Commons user), “Wool camp socks” (2022). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A pair of grey marled wool socks with red and white cuff stripes.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "socks"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "sport-coat",
+  "file": "photos/sport-coat.webp",
+  "width": 1400,
+  "height": 1400,
+  "title": "Checked sport coat",
+  "creator": "Robert Sheie",
+  "date": "2014",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polo_Ralph_Lauren_-_Sport_Coat.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Polo_Ralph_Lauren_-_Sport_Coat.jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "rightsBasis": "CC BY 2.0 as stated on the Commons file page ({{cc-by-2.0}}); checked 8 Nov 2026.",
+  "attribution": "Robert Sheie, “Checked sport coat” (2014). Flickr, via Wikimedia Commons. CC BY 2.0. Resized and converted to WebP.",
+  "alt": "A brown checked sport coat on a hanger, front view.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "sport-coat"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "suit",
+  "file": "photos/suit.webp",
+  "width": 900,
+  "height": 675,
+  "title": "Three-piece suit, 1968",
+  "creator": "RISD Museum of Art",
+  "date": "1968 suit, photographed 2012",
+  "sourceOrg": "RISD Museum, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:1968_three_piece_suit_by_F.L._Dunne_%26_Co,_New_York_and_Boston,_wool_twill_01.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/1968_three_piece_suit_by_F.L._Dunne_%26_Co%2C_New_York_and_Boston%2C_wool_twill_01.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "RISD Museum of Art, “Three-piece suit, 1968” (1968 suit, photographed 2012). RISD Museum, via Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "A 1968 wool twill three-piece suit by F. L. Dunne & Co. on museum mannequins: jacket, waistcoat and trousers.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "suit"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "suit-body",
+  "file": "photos/suit-body.webp",
+  "width": 1000,
+  "height": 1400,
+  "title": "Sergei Prokofiev in a three-piece suit",
+  "creator": "Bain News Service (Library of Congress)",
+  "date": "c. 1918",
+  "sourceOrg": "Library of Congress, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prokofieff_(i.e._Prokofiev)_LCCN2014708419_Crop_2.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Prokofieff_%28i.e._Prokofiev%29_LCCN2014708419_Crop_2.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Bain News Service glass negative, c. 1918, Library of Congress; no known restrictions (PD-Bain, PD-old-70-1923).",
+  "attribution": "Bain News Service (Library of Congress), “Sergei Prokofiev in a three-piece suit” (c. 1918). Library of Congress, via Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "Black-and-white photograph of the composer Prokofiev standing by a fireplace in a dark three-piece suit.",
+  "note": null,
+  "usage": {
+   "garments": [],
+   "body": [
+    "suit"
+   ],
+   "styles": []
+  }
+ },
+ {
+  "id": "sunglasses",
+  "file": "photos/sunglasses.webp",
+  "width": 1400,
+  "height": 1050,
+  "title": "Aviator sunglasses",
+  "creator": "Barbaking (Commons user)",
+  "date": "2019",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_reflection_on_sunglasses.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Palm_reflection_on_sunglasses.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Barbaking (Commons user), “Aviator sunglasses” (2019). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A pair of metal-framed aviator sunglasses with orange mirrored lenses reflecting palm fronds.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "sunglasses"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "rectangular-glasses",
+  "file": "photos/rectangular-glasses.webp",
+  "width": 1400,
+  "height": 1050,
+  "title": "Rectangular spectacles",
+  "creator": "CBR260 (Commons user)",
+  "date": "2017",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ray_Ban_Glasses.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Ray_Ban_Glasses.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "CBR260 (Commons user), “Rectangular spectacles” (2017). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A pair of black rectangular prescription spectacles on a pale surface.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "rectangular-glasses"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "sweatshirt",
+  "file": "photos/sweatshirt.webp",
+  "width": 1050,
+  "height": 1400,
+  "title": "Crewneck sweatshirt",
+  "creator": "Soenke Rahn",
+  "date": "2013",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relikt_der_ehemaligen_KGS_Adelby,_Bild_01.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Relikt_der_ehemaligen_KGS_Adelby%2C_Bild_01.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Soenke Rahn, “Crewneck sweatshirt” (2013). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A green crewneck sweatshirt with a printed school logo, laid flat on a table.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "sweatshirt"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "tie",
+  "file": "photos/tie.webp",
+  "width": 1000,
+  "height": 1000,
+  "title": "Checked necktie",
+  "creator": "Bvneckties (Commons user)",
+  "date": "2015",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:L85HS19_Blake_vincent_scot_stiped_silk_necktie_2.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/L85HS19_Blake_vincent_scot_stiped_silk_necktie_2.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Bvneckties (Commons user), “Checked necktie” (2015). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A dark necktie with a fine white check, laid diagonally on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "tie"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "overcoat",
+  "file": "photos/overcoat.webp",
+  "width": 1026,
+  "height": 1400,
+  "title": "Double-breasted overcoat worn",
+  "creator": "Goodwordcollective (Commons user)",
+  "date": "2023",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eugy_In_Green_Trench_Coat.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Eugy_In_Green_Trench_Coat.jpg",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rightsBasis": "CC0 as stated on the Commons file page ({{self|cc-zero}}); checked 8 Nov 2026.",
+  "attribution": "Goodwordcollective (Commons user), “Double-breasted overcoat worn” (2023). Wikimedia Commons. CC0. Resized and converted to WebP.",
+  "alt": "The musician Eugy standing in a long green double-breasted overcoat against a dark green backdrop.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "overcoat"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "waistcoat",
+  "file": "photos/waistcoat.webp",
+  "width": 1053,
+  "height": 1400,
+  "title": "Odd waistcoat",
+  "creator": "Gerry Lynch",
+  "date": "2005",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waistcoat.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Waistcoat.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{GFDL-self|migration=relicense}}); checked 8 Nov 2026.",
+  "attribution": "Gerry Lynch, “Odd waistcoat” (2005). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A crimson single-breasted waistcoat on a wooden hanger against grey.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "waistcoat"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "watch",
+  "file": "photos/watch.webp",
+  "width": 1400,
+  "height": 1400,
+  "title": "Field watch",
+  "creator": "Emma LANG1943 (Commons user)",
+  "date": "2024",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:01_Frontal_braun.tif",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/01_Frontal_braun.tif",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Emma LANG1943 (Commons user), “Field watch” (2024). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A steel field watch with a black Arabic-numeral dial and brown leather strap, on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "watch"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "work-boots",
+  "file": "photos/work-boots.webp",
+  "width": 1400,
+  "height": 1050,
+  "title": "Red Wing work boots",
+  "creator": "A Continuous Lean (Michael Williams)",
+  "date": "2011",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Wing_AW11.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Red_Wing_AW11.jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "rightsBasis": "CC BY 2.0 as stated on the Commons file page ({{FlickrVerifiedByUploadWizard|cc-by-2.0}} {{cc-by-2.0}}); checked 8 Nov 2026.",
+  "attribution": "A Continuous Lean (Michael Williams), “Red Wing work boots” (2011). Flickr, via Wikimedia Commons. CC BY 2.0. Resized and converted to WebP.",
+  "alt": "A black leather moc-toe lace-up work boot with a white wedge sole.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "work-boots"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "v-neck-tee",
+  "file": "photos/v-neck-tee.webp",
+  "width": 803,
+  "height": 850,
+  "title": "White V-neck T-shirt",
+  "creator": "Rafasshop (Commons uploader)",
+  "date": "2014",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camiseta_Blanca_con_cuello_en_V.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Camiseta_Blanca_con_cuello_en_V.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Rafasshop (Commons uploader), “White V-neck T-shirt” (2014). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A plain white short-sleeved V-neck T-shirt on white.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "v-neck-tee"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "panama",
+  "file": "photos/panama.webp",
+  "width": 1400,
+  "height": 937,
+  "title": "Panama hat",
+  "creator": "Museum Rotterdam",
+  "date": "2008–2009",
+  "sourceOrg": "Museum Rotterdam, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panamahoed,_naturel_met_zwarte_band,_label,_%E2%80%9CCorbeau%E2%80%9D,_objectnr_87074.JPG",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Panamahoed%2C_naturel_met_zwarte_band%2C_label%2C_%E2%80%9CCorbeau%E2%80%9D%2C_objectnr_87074.JPG",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{cc-by-sa-3.0}}); checked 8 Nov 2026.",
+  "attribution": "Museum Rotterdam, “Panama hat” (2008–2009). Museum Rotterdam, via Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "A natural straw Panama hat with a black band, against black.",
+  "note": null,
+  "usage": {
+   "garments": [
+    "panama"
+   ],
+   "body": [],
+   "styles": []
+  }
+ },
+ {
+  "id": "denim-jacket",
+  "file": "photos/denim-jacket.webp",
+  "width": 932,
+  "height": 1400,
+  "title": "Denim jacket at the Venice Film Festival",
+  "creator": "Nicolas Genin",
+  "date": "2009",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_nicogenin_-_66%C3%A8me_Festival_de_Venise_(Mostra)_-_Jared_Leto_(3).jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flickr_-_nicogenin_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29_-_Jared_Leto_%283%29.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "rightsBasis": "CC BY-SA 2.0 as stated on the Commons file page ({{cc-by-sa-2.0}}); checked 8 Nov 2026.",
+  "attribution": "Nicolas Genin, “Denim jacket at the Venice Film Festival” (2009). Flickr, via Wikimedia Commons. CC BY-SA 2.0. Resized and converted to WebP.",
+  "alt": "The actor Jared Leto in a grey-blue denim jacket over a white T-shirt, with aviator sunglasses, in a crowd.",
+  "note": "A 2009 red-carpet photograph: the denim jacket and white T-shirt are the Americana staples, worn in a contemporary way.",
+  "usage": {
+   "garments": [
+    "denim-jacket"
+   ],
+   "body": [],
+   "styles": [
+    "americana"
+   ]
+  }
+ },
+ {
+  "id": "s-british",
+  "file": "photos/s-british.webp",
+  "width": 933,
+  "height": 1400,
+  "title": "Tweed Run, London",
+  "creator": "deadlyhappy (Flickr user)",
+  "date": "2009",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tweed_Ride_London_2009_06.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tweed_Ride_London_2009_06.jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "rightsBasis": "CC BY 2.0 as stated on the Commons file page ({{cc-by-2.0}}); checked 8 Nov 2026.",
+  "attribution": "deadlyhappy (Flickr user), “Tweed Run, London” (2009). Flickr, via Wikimedia Commons. CC BY 2.0. Resized and converted to WebP.",
+  "alt": "A cyclist on a London street in a tweed jacket, flat cap, plus fours and long socks during the Tweed Run.",
+  "note": "A 2009 Tweed Run, where riders dress in revived interwar country clothes. It is a modern homage, not a period photograph.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "british"
+   ]
+  }
+ },
+ {
+  "id": "s-workwear",
+  "file": "photos/s-workwear.webp",
+  "width": 953,
+  "height": 1024,
+  "title": "Shipyard worker in overalls, 1943",
+  "creator": "Arthur S. Siegel, Office of War Information (Library of Congress)",
+  "date": "1943",
+  "sourceOrg": "Library of Congress, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worker_with_a_personal_monogram_on_his_overalls_8d29155v.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Worker_with_a_personal_monogram_on_his_overalls_8d29155v.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "rightsBasis": "Work of a US government photographer for the Office of War Information (PD-USGov-FSA); Library of Congress, no known restrictions.",
+  "attribution": "Arthur S. Siegel, Office of War Information (Library of Congress), “Shipyard worker in overalls, 1943” (1943). Library of Congress, via Wikimedia Commons. Public domain. Resized and converted to WebP.",
+  "alt": "Black-and-white photograph of a young shipyard worker in a cap and bib overalls with a monogrammed bib, Baltimore.",
+  "note": "Documentary photograph from 1943: the clothes were working gear, not a style choice.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "workwear"
+   ]
+  }
+ },
+ {
+  "id": "s-streetwear",
+  "file": "photos/s-streetwear.webp",
+  "width": 933,
+  "height": 1400,
+  "title": "Streetwear, 2020",
+  "creator": "Bwave Official (Commons user)",
+  "date": "2020",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:BWave_Official._Established_since_2016.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BWave_Official._Established_since_2016.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Bwave Official (Commons user), “Streetwear, 2020” (2020). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A young man in a blue graphic T-shirt, camouflage trousers and sneakers posing on a rooftop.",
+  "note": "Contemporary photograph, uploaded by a streetwear shop.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "streetwear"
+   ]
+  }
+ },
+ {
+  "id": "s-military",
+  "file": "photos/s-military.webp",
+  "width": 963,
+  "height": 1396,
+  "title": "Flight jacket worn",
+  "creator": "The Come Up Show",
+  "date": "2016",
+  "sourceOrg": "Flickr, via Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casey_Veggies.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Casey_Veggies.jpg",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "rightsBasis": "CC BY 4.0 as stated on the Commons file page ({{cc-by-4.0}}); checked 8 Nov 2026.",
+  "attribution": "The Come Up Show, “Flight jacket worn” (2016). Flickr, via Wikimedia Commons. CC BY 4.0. Resized and converted to WebP.",
+  "alt": "The rapper Casey Veggies laughing in an olive MA-1 flight jacket with patches, over a crewneck.",
+  "note": "A 2016 portrait: a civilian wearing the military flight jacket as everyday clothing.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "military"
+   ]
+  }
+ },
+ {
+  "id": "s-mod",
+  "file": "photos/s-mod.webp",
+  "width": 1191,
+  "height": 955,
+  "title": "Mods in Edinburgh, 1984",
+  "creator": "Glasgowmods (Commons user)",
+  "date": "1984",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camey,_Edinburgh_Mods.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Camey%2C_Edinburgh_Mods.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "rightsBasis": "CC BY-SA 3.0 as stated on the Commons file page ({{self|cc-by-sa-3.0|GFDL}}); checked 8 Nov 2026.",
+  "attribution": "Glasgowmods (Commons user), “Mods in Edinburgh, 1984” (1984). Wikimedia Commons. CC BY-SA 3.0. Resized and converted to WebP.",
+  "alt": "Three young men on an Edinburgh bridge in short jackets and button-down shirts, back from a scooter rally.",
+  "note": "Taken during the 1980s mod revival, two decades after the original movement.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "mod"
+   ]
+  }
+ },
+ {
+  "id": "s-minimalist",
+  "file": "photos/s-minimalist.webp",
+  "width": 934,
+  "height": 1400,
+  "title": "Black T-shirt and jeans",
+  "creator": "Peachyeung316 (Commons user)",
+  "date": "2020",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautful_women_and_handsome_man.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Beautful_women_and_handsome_man.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Peachyeung316 (Commons user), “Black T-shirt and jeans” (2020). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A man (left) in a plain black T-shirt, black jeans and white sneakers, standing beside a woman in a park pavilion in Hong Kong.",
+  "note": "Contemporary photograph; the plain dark palette shows the minimalist approach.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "minimalist"
+   ]
+  }
+ },
+ {
+  "id": "s-vintage-revival",
+  "file": "photos/s-vintage-revival.webp",
+  "width": 1058,
+  "height": 1400,
+  "title": "Revival dress at a swing-dance shoot",
+  "creator": "Anthony Padgett",
+  "date": "2011",
+  "sourceOrg": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthony_%26_Stephanie_Charleston_dancer_dancing_pose.jpg",
+  "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Anthony_%26_Stephanie_Charleston_dancer_dancing_pose.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rightsBasis": "CC BY-SA 4.0 as stated on the Commons file page ({{self|cc-by-sa-4.0}}); checked 8 Nov 2026.",
+  "attribution": "Anthony Padgett, “Revival dress at a swing-dance shoot” (2011). Wikimedia Commons. CC BY-SA 4.0. Resized and converted to WebP.",
+  "alt": "A man in a 1940s-style double-breasted suit and fedora dancing with a woman in a fur coat and hat on a hilltop.",
+  "note": "A 2011 photograph of dancers in period-inspired clothes, not a photograph from the 1940s.",
+  "usage": {
+   "garments": [],
+   "body": [],
+   "styles": [
+    "vintage-revival"
+   ]
+  }
+ }
+]

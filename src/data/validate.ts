@@ -6,6 +6,7 @@ import { GARMENT, GARMENTS } from './garments'
 import { OCCASIONS } from './occasions'
 import { hasColour } from './palette'
 import { PRESETS } from './presets'
+import { PHOTOS } from './photos'
 import { STYLES } from './styles'
 import type { Block } from './types'
 
@@ -47,6 +48,12 @@ export function validate(): string[] {
     for (const id of a.usage.styles) need(has.s(id), `archive ${a.id}: unknown style ${id}`)
     for (const id of a.usage.chapters) need(has.c(id), `archive ${a.id}: unknown chapter ${id}`)
     need(!!(a.title && a.creator && a.date && a.sourceUrl && a.license && a.rightsBasis && a.attribution && a.alt), `archive ${a.id}: incomplete provenance`)
+  }
+  for (const p of PHOTOS) {
+    for (const id of [...p.usage.garments, ...p.usage.body]) need(has.g(id), `photo ${p.id}: unknown garment ${id}`)
+    for (const id of p.usage.styles) need(has.s(id), `photo ${p.id}: unknown style ${id}`)
+    need(!!(p.title && p.creator && p.date && p.sourceUrl && p.originalFileUrl && p.license && p.rightsBasis && p.attribution && p.alt), `photo ${p.id}: incomplete provenance`)
+    need(p.license === 'Public domain' || p.license === 'CC0' || /^CC BY(-SA)? \d/.test(p.license), `photo ${p.id}: licence ${p.license} not on the open list`)
   }
   for (const ch of CHALLENGES) {
     need(has.o(ch.occasion), `challenge ${ch.id}: unknown occasion`)
