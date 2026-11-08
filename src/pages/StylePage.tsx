@@ -6,7 +6,8 @@ import { garment } from '../data/garments'
 import { preset } from '../data/presets'
 import { STYLES, style } from '../data/styles'
 import { Rich } from '../lib/inline'
-import { BookmarkButton, Crumbs, Ornament, Plate, Specimen, useTitle } from '../ui/bits'
+import { archiveFor } from '../data/archive'
+import { ArchivePlate, BookmarkButton, Crumbs, Ornament, Plate, Specimen, useTitle } from '../ui/bits'
 import NotFound from './NotFound'
 
 export default function StylePage() {
@@ -17,6 +18,7 @@ export default function StylePage() {
   const presets = s.presets.map(preset).filter(p => !!p)
   const influencedBy = s.influences.map(style).filter(x => !!x)
   const influenced = STYLES.filter(x => x.influences.includes(s.id))
+  const arch = archiveFor('styles', s.id)
 
   return (
     <article className="mx-auto max-w-6xl px-4 pb-16 pt-6 sm:px-6">
@@ -59,6 +61,7 @@ export default function StylePage() {
         </div>
 
         <aside className="space-y-8">
+          {arch && <ArchivePlate a={arch} />}
           {!!presets.length && (
             <section aria-labelledby="ex-h">
               <h2 id="ex-h" className="text-2xl">Example outfits</h2>

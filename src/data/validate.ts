@@ -1,4 +1,5 @@
 import { links } from '../lib/inline'
+import { ARCHIVE } from './archive'
 import { CHALLENGES } from './challenges'
 import { CHAPTERS } from './chapters'
 import { GARMENT, GARMENTS } from './garments'
@@ -40,6 +41,12 @@ export function validate(): string[] {
       need(hasColour(piece.colour), `preset ${p.id}: unknown colour ${piece.colour}`)
       need(!g || g.patterns.includes(piece.pattern), `preset ${p.id}: ${piece.garmentId} has no ${piece.pattern} pattern`)
     }
+  }
+  for (const a of ARCHIVE) {
+    for (const id of a.usage.garments) need(has.g(id), `archive ${a.id}: unknown garment ${id}`)
+    for (const id of a.usage.styles) need(has.s(id), `archive ${a.id}: unknown style ${id}`)
+    for (const id of a.usage.chapters) need(has.c(id), `archive ${a.id}: unknown chapter ${id}`)
+    need(!!(a.title && a.creator && a.date && a.sourceUrl && a.license && a.rightsBasis && a.attribution && a.alt), `archive ${a.id}: incomplete provenance`)
   }
   for (const ch of CHALLENGES) {
     need(has.o(ch.occasion), `challenge ${ch.id}: unknown occasion`)

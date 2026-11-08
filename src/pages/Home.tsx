@@ -6,7 +6,8 @@ import { GARMENTS } from '../data/garments'
 import { preset } from '../data/presets'
 import { STYLES, style } from '../data/styles'
 import { useStore } from '../lib/store'
-import { Ornament, Plate, useTitle } from '../ui/bits'
+import { ARCHIVE, archiveHref } from '../data/archive'
+import { archiveSrc, Ornament, Plate, useTitle } from '../ui/bits'
 
 const CONTENTS = [
   { to: '/handbook', title: 'The Handbook', note: `${CHAPTERS.length} illustrated chapters on fit, colour, proportion and occasion`, n: CHAPTERS.length },
@@ -90,7 +91,27 @@ export default function Home() {
         </ol>
       </section>
 
-      <section aria-labelledby="vol-h" className="mt-20 grid gap-8 md:grid-cols-[18rem_1fr]">
+      <section aria-labelledby="arch-h" className="mt-20">
+        <div className="flex flex-wrap items-baseline justify-between gap-3">
+          <h2 id="arch-h" className="text-4xl">From the archive</h2>
+          <Link to="/credits" className="xref">Image sources & credits</Link>
+        </div>
+        <Ornament className="mx-0 mt-3" />
+        <p className="mt-4 max-w-2xl text-ink-2">Period photographs, fashion plates and advertisements, each public domain or openly licensed, set beside the chapters and garments they illustrate.</p>
+        <ul className="mt-6 grid grid-cols-2 gap-5 md:grid-cols-3">
+          {ARCHIVE.filter(a => a.usage.home).map(a => (
+            <li key={a.id}>
+              <Link to={archiveHref(a)} className="group block">
+                <div className="plate aspect-[4/5] p-2.5"><img src={archiveSrc(a)} alt={a.alt} width={a.width} height={a.height} loading="lazy" decoding="async" className="archive-img h-full w-full object-contain" /></div>
+                <span className="mt-2 block font-display text-lg leading-tight group-hover:text-accent">{a.title}</span>
+                <span className="block text-sm text-ink-2">{a.date} · {a.creator}</span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section aria-labelledby="vol-h"className="mt-20 grid gap-8 md:grid-cols-[18rem_1fr]">
         <div>
           <h2 id="vol-h" className="text-4xl">Begin reading</h2>
           <p className="mt-3 text-ink-2">Start at the beginning, or open any volume. Every chapter links to the garments, styles and exercises it mentions.</p>

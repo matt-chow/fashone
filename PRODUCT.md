@@ -10,7 +10,7 @@
 
 **Voice.** A knowledgeable, well-edited handbook: concise, specific, warm, lightly witty. No filler, no invented citations.
 
-**Brand commitments (pinned).** Name "Fashone". A 1930s–50s illustrated menswear catalogue and tailoring-publication world made interactive. Four themes: The Tailor's Study (default: ivory, burgundy, forest, brass), The Heritage Catalogue (cream, leather, tan, sepia), The Midnight Edition (navy, parchment, gold, charcoal), The Modern Archive (olive, rust, warm paper, charcoal). Original procedurally drawn vector illustrations in a fashion-plate manner.
+**Brand commitments (pinned).** Name "Fashone". A 1930s–50s illustrated menswear catalogue and tailoring-publication world made interactive. Four themes: The Tailor's Study (default: ivory, burgundy, forest, brass), The Heritage Catalogue (cream, leather, tan, sepia), The Midnight Edition (navy, parchment, gold, charcoal), The Modern Archive (olive, rust, warm paper, charcoal). Original procedurally drawn vector illustrations in a fashion-plate manner, joined by a small curated set of archival plates (public domain or openly licensed only; provenance in `src/data/archive.json`, shown at `/credits`).
 
 **Constraints.** Zero cost; static hosting; no accounts or backends; accessible (WCAG AA), responsive, reduced-motion aware.
 

@@ -15,6 +15,7 @@ const StylePage = lazy(() => import('./pages/StylePage'))
 const Practice = lazy(() => import('./pages/Practice'))
 const Saved = lazy(() => import('./pages/Saved'))
 const SearchPage = lazy(() => import('./pages/SearchPage'))
+const Credits = lazy(() => import('./pages/Credits'))
 const NotFound = lazy(() => import('./pages/NotFound'))
 
 const router = createBrowserRouter([
@@ -34,7 +35,8 @@ const router = createBrowserRouter([
       { path: 'practice/:id', element: <Practice /> },
       { path: 'saved', element: <Saved /> },
       { path: 'search', element: <SearchPage /> },
-      { path: '*', element: <NotFound /> },
+      { path: 'credits', element: <Credits /> },
+      { path: '*',element: <NotFound /> },
     ],
   },
 ], { basename: import.meta.env.BASE_URL.replace(/\/$/, '') || '/' })

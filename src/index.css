@@ -223,6 +223,11 @@ p, li {
     border: 1px solid var(--rule);
     box-shadow: 0 1px 0 var(--paper-3) inset, 0 12px 30px -18px color-mix(in oklab, var(--ink) 45%, transparent);
   }
+  /* Plates are always cream, so multiply sinks scanned paper into the mount on every theme. */
+  .archive-img {
+    mix-blend-mode: multiply;
+    filter: sepia(0.15) contrast(1.02);
+  }
   /* Midnight keeps plates light, so their contents swap to the dark-on-cream token set. */
   [data-theme='midnight'] .plate {
     --ink: var(--figure-ink);

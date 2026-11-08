@@ -1,6 +1,7 @@
 import { Bookmark, BookmarkCheck, ChevronRight } from 'lucide-react'
 import { useEffect, type ReactNode } from 'react'
 import { Link } from 'react-router'
+import type { ArchiveImage } from '../data/archive'
 import type { Garment, Outfit } from '../data/types'
 import { Figure } from '../figure/Figure'
 import { describe } from '../lib/outfit'
@@ -44,6 +45,20 @@ export function Plate({ outfit, caption, className = '', figClass = 'h-full w-fu
       <Figure outfit={outfit} title={title ?? describe(outfit)} className={figClass} />
       {children}
       {caption && <figcaption className="border-t border-rule px-3 py-2 text-sm italic text-ink-2">{caption}</figcaption>}
+    </figure>
+  )
+}
+
+export const archiveSrc = (a: ArchiveImage) => `${import.meta.env.BASE_URL}${a.file}`
+
+/** A mounted archival print with its credit line; the licence links to the full record on /credits. */
+export function ArchivePlate({ a, className = '' }: { a: ArchiveImage; className?: string }) {
+  return (
+    <figure className={`plate ${className}`}>
+      <div className="p-2.5"><img src={archiveSrc(a)} alt={a.alt} width={a.width} height={a.height} loading="lazy" decoding="async" className="archive-img h-auto w-full" /></div>
+      <figcaption className="border-t border-rule px-3 py-2 text-sm text-ink-2">
+        <span className="italic">{a.title}</span>, {a.date}. {a.creator.replace(/\.$/, '')}. <Link className="xref whitespace-nowrap" to={`/credits#${a.id}`}>{a.license}</Link>
+      </figcaption>
     </figure>
   )
 }

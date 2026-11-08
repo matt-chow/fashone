@@ -1,6 +1,6 @@
 # Fashone — The Illustrated Handbook of Men's Style
 
-An interactive, illustrated guide to menswear: how clothes fit, how colours and patterns combine, what occasions ask for, and where style traditions come from. Every figure is drawn in code (SVG), so there are no licensed images, and all data stays in your browser.
+An interactive, illustrated guide to menswear: how clothes fit, how colours and patterns combine, what occasions ask for, and where style traditions come from. Every figure is drawn in code (SVG). Alongside them sit 26 archival photographs, fashion plates and advertisements, all public domain, CC0 or CC BY. Each has its source and rights recorded in `src/data/archive.json` and credited on the in-app `/credits` page. All data stays in your browser.
 
 ## What's inside
 

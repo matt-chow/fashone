@@ -9,7 +9,8 @@ import { PRESETS } from '../data/presets'
 import { style } from '../data/styles'
 import { Rich } from '../lib/inline'
 import { Anatomy } from '../ui/Anatomy'
-import { BookmarkButton, Crumbs, Plate, Specimen, useTitle } from '../ui/bits'
+import { archiveFor } from '../data/archive'
+import { ArchivePlate, BookmarkButton, Crumbs, Plate, Specimen, useTitle } from '../ui/bits'
 import NotFound from './NotFound'
 
 const cap = (s: string) => s[0].toUpperCase() + s.slice(1)
@@ -22,6 +23,7 @@ export default function GarmentPage() {
   const cat = CATEGORIES.find(c => c.id === g.category)!
   const chapters = CHAPTERS.filter(c => c.garments?.includes(g.id))
   const outfits = PRESETS.filter(p => Object.values(p.outfit.pieces).some(x => x.garmentId === g.id)).slice(0, 4)
+  const arch = archiveFor('garments', g.id)
   const related = [...new Set([...(g.related ?? []), ...(g.pairsWith ?? [])])].map(garment).filter(x => !!x)
 
   return (
@@ -61,6 +63,7 @@ export default function GarmentPage() {
           {g.styling && <Sec title="How to wear it"><p><Rich text={g.styling} /></p></Sec>}
           {g.anatomy && <div className="!max-w-none"><Anatomy id={g.anatomy} /></div>}
           {g.history && <Sec title="History"><p><Rich text={g.history} /></p></Sec>}
+          {arch && <Sec title="From the archive"><ArchivePlate a={arch} className="max-w-md" /></Sec>}
           {!!g.buying?.length && <Sec title="Buying well"><ul className="bullets">{g.buying.map(b => <li key={b}><Rich text={b} /></li>)}</ul></Sec>}
           {g.care && <Sec title="Care"><p><Rich text={g.care} /></p></Sec>}
           {!!g.mistakes?.length && <Sec title="Common mistakes"><ul className="bullets">{g.mistakes.map(m => <li key={m}><Rich text={m} /></li>)}</ul></Sec>}

@@ -8,7 +8,7 @@ const watchErrors = (page: Page) => {
 }
 
 const ROUTES = ['/', '/handbook', '/handbook/tailoring-fit', '/encyclopedia', '/encyclopedia/blazer', '/compare?a=blazer&b=sport-coat',
-  '/studio', '/studio?preset=winter-dinner', '/atlas', '/atlas/ivy', '/practice', '/practice/colour-workshop', '/saved', '/search?q=tweed', '/nowhere']
+  '/studio', '/studio?preset=winter-dinner', '/atlas', '/atlas/ivy', '/practice', '/practice/colour-workshop', '/saved', '/search?q=tweed', '/credits', '/atlas/workwear', '/handbook/black-tie', '/encyclopedia/trench-coat', '/nowhere']
 
 for (const route of ROUTES) {
   test(`renders ${route} without console errors`, async ({ page }) => {

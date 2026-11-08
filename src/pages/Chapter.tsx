@@ -8,7 +8,8 @@ import { style } from '../data/styles'
 import type { Block } from '../data/types'
 import { Rich } from '../lib/inline'
 import { useStore } from '../lib/store'
-import { BookmarkButton, Crumbs, Ornament, useTitle } from '../ui/bits'
+import { archiveFor } from '../data/archive'
+import { ArchivePlate, BookmarkButton, Crumbs, Ornament, useTitle } from '../ui/bits'
 import { Demo } from '../ui/Demo'
 import NotFound from './NotFound'
 
@@ -33,7 +34,8 @@ function ChapterBody({ id }: { id: string }) {
 
   useEffect(() => scrollYProgress.on('change', v => setProgress(id, v)), [scrollYProgress, setProgress, id])
 
-  const headingIds = c.blocks.flatMap(b => (b.t === 'h' ? [b.text] : []))
+  const arch = archiveFor('chapters', c.id)
+  const headingIds =c.blocks.flatMap(b => (b.t === 'h' ? [b.text] : []))
   return (
     <>
       <motion.div aria-hidden className="fixed inset-x-0 top-0 z-50 h-0.5 origin-left bg-accent" style={{ scaleX: bar }} />
@@ -55,6 +57,7 @@ function ChapterBody({ id }: { id: string }) {
           <p className="label mt-4 text-ink-2">Chapter {i + 1} · {VOLUMES[c.volume - 1].title} · {c.minutes} min read</p>
           <Ornament className="mt-6" />
         </header>
+        {arch && <ArchivePlate a={arch} className="mx-auto mt-10 max-w-sm" />}
 
         <div className="mt-10 grid gap-10 lg:grid-cols-[13rem_minmax(0,1fr)_13rem]">
           <nav aria-label="In this chapter" className="hidden lg:block">

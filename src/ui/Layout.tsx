@@ -145,7 +145,7 @@ function Footer() {
       <div className="mx-auto grid max-w-[84rem] gap-8 px-4 py-10 sm:px-6 md:grid-cols-[1.4fr_1fr_1fr]">
         <div>
           <p className="font-display text-2xl">Fashone</p>
-          <p className="mt-2 max-w-sm text-sm leading-relaxed text-ink-2">An illustrated handbook of men's style. Every figure is drawn in code; your outfits and progress stay in this browser.</p>
+          <p className="mt-2 max-w-sm text-sm leading-relaxed text-ink-2">An illustrated handbook of men's style. Every figure is drawn in code, archival plates are credited to their sources, and your outfits and progress stay in this browser.</p>
         </div>
         <nav aria-label="Footer">
           <ul className="space-y-1.5 text-sm">
@@ -155,6 +155,7 @@ function Footer() {
         <ul className="space-y-1.5 text-sm">
           <li><Link className="hover:text-accent" to="/saved">Saved & progress</Link></li>
           <li><Link className="hover:text-accent" to="/search">Search</Link></li>
+          <li><Link className="hover:text-accent" to="/credits">Image sources & credits</Link></li>
           <li className="pt-2 text-ink-2">Advice is marked <em>convention</em> or <em>interpretation</em>. Neither is law.</li>
         </ul>
       </div>
